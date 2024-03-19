@@ -1,0 +1,14 @@
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+D:\School_Materials\CSI260\CSI260_Midterm_Project\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
